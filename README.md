@@ -1,6 +1,8 @@
 # TNPLH-Sample-Pack
 ## Hello, producer! (or any other person, involved in music production)
 
+![alt text](https://github.com/vandersound/TNPLH-Sample-Pack/blob/master/Cover/VDS%20TNPLH%20cover.png?raw=true)
+
 During COVID-19, many musicians are stuck at home, but I believe it's an opportunity to spend more time making new tracks or enhancing your current skills. That's why I've decided to record and design high-quality and original sounds, suitable for different genres and simple to export into any DAW. As a result of my work, I'm happy to share with you my first sample pack called **There's No Place Like Home.**
 
 ## What's inside?
@@ -23,12 +25,15 @@ As a bonus, there are several phrases by Donald Trump emphasizing the necessity 
 
 ## Listen and download
 
-You can get a taste of the pack by listening to the demo here: 
+You can get a taste of the pack by listening to the demo [here]
+[here] 
 
-The pack, also packed with the demo can be downloaded via this link: 
+The pack, also packed with the demo can be downloaded via [this link]
+
+[this link]: https://www.dropbox.com/s/o0nq0at3om529ij/Van%20der%20Sound%20-%20There%27s%20No%20Place%20Like%20Home.7z?dl=0
 
 ## License information
-All sounds in this pack are royalty-free except for Trump's words (I can't guarantee their royalty-free status). Please read the license agreement carefully, it's located in the compressed file together with the pack itself.
+All sounds in this pack are royalty-free except for Trump's words (I can't guarantee their royalty-free status). **Please read the license agreement carefully**, it's located in the compressed file together with the pack itself.
 
 
 ## P. S.
