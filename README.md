@@ -1,5 +1,5 @@
 # TNPLH-Sample-Pack
-## Hello, producer! (or any other person, involved in music production)
+## Hello, producer! (or any other person, involved in audio production)
 <p align="center">
  <img src="https://github.com/vandersound/TNPLH-Sample-Pack/blob/master/Cover/VDS%20TNPLH%20cover.png" width="300">
 </p>
