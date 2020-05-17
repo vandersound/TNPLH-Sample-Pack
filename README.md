@@ -29,7 +29,7 @@ As a bonus, there are several phrases by Donald Trump emphasizing the necessity 
 You can get a taste of the pack by listening to the demo [here]
 [here] 
 
-The pack, also packed with the demo can be downloaded via [this link]
+The pack itself also comes with the demo and can be downloaded via [this link]
 
 [this link]: https://www.dropbox.com/s/o0nq0at3om529ij/Van%20der%20Sound%20-%20There%27s%20No%20Place%20Like%20Home.7z?dl=0
 
