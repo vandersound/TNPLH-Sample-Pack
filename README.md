@@ -28,6 +28,7 @@ As a bonus, there are several phrases by Donald Trump emphasizing the necessity 
 
 You can get a taste of the pack by listening to the demo [here]
 [here] 
+In the demo track I used samples only from this pack to give you a clear picture of what you can expect from them.
 
 The pack itself also comes with the demo and can be downloaded via [this link]
 
