@@ -38,8 +38,14 @@ All sounds in this pack are royalty-free except for Trump's words (I can't guara
 
 
 ## P. S.
-If you find this pack helpful in your production, I'll appreciate if you send a few dollars by clicking this button:
+If you find this pack helpful in your production, I'll appreciate if you send a few dollars by clicking this link: [donate (Paypal)]
+
+[donate (Paypal)]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4H8F7P22EEM8G
 
 Stay safe and creative,
 
 Van der Sound
+
+
+
+
