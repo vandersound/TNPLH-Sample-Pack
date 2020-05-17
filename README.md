@@ -1,7 +1,8 @@
 # TNPLH-Sample-Pack
 ## Hello, producer! (or any other person, involved in music production)
-
-![alt text](https://github.com/vandersound/TNPLH-Sample-Pack/blob/master/Cover/VDS%20TNPLH%20cover.png?raw=true)
+<p align="center">
+ <img src="https://github.com/vandersound/TNPLH-Sample-Pack/blob/master/Cover/VDS%20TNPLH%20cover.png" width="300">
+</p>
 
 During COVID-19, many musicians are stuck at home, but I believe it's an opportunity to spend more time making new tracks or enhancing your current skills. That's why I've decided to record and design high-quality and original sounds, suitable for different genres and simple to export into any DAW. As a result of my work, I'm happy to share with you my first sample pack called **There's No Place Like Home.**
 
